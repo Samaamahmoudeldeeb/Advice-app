@@ -1,0 +1,59 @@
+.container {
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.wrapper {
+    background: hsl(217, 19%, 24%);
+    width: 520px;
+    height: 340px;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+}
+.card {
+    width: 420px;
+    height: 200px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 45px;
+    text-align: center;
+    display: flex;
+}
+
+.id p {
+    font-size: 14px;
+    color: hsl(150, 100%, 66%);
+    margin-bottom: 5px;
+    }
+
+.advice p {
+    font-size: 28px;
+    color: hsl(193, 38%, 86%);
+    margin-bottom: 20px;
+}
+
+.dice {
+    height: 65px;
+    width: 65px;
+    background: hsl(150, 100%, 66%);
+    border-radius: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 35px;
+    cursor: pointer;
+}
+
+.dice:hover {
+    box-shadow: 0px 0px 60px hsla(150, 60%, 46%, 0.5);
+}
+.divider {
+  margin-top: 20px;
+}
