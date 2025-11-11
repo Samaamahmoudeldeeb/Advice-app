@@ -5,7 +5,7 @@ It’s an app that shows random advice using the **Advice Slip API**, and each t
 
 ---
 
-## 🧠 What I did
+##  What I did
 - Used `fetch()` to get random advice from the API.
 - Displayed advice ID and text dynamically.
 - Designed the layout using pure CSS.
@@ -14,7 +14,7 @@ It’s an app that shows random advice using the **Advice Slip API**, and each t
 
 ---
 
-## 🛠️ Tools & Tech
+## Tools & Tech
 - React.js  
 - CSS3  
 - Advice Slip API  
@@ -22,11 +22,11 @@ It’s an app that shows random advice using the **Advice Slip API**, and each t
 
 ---
 
-## 🚀 How to run it locally
+##  How to run it locally
 
 
-You can check the live version here 👇
-🔗 https://your-live-link.vercel.app
+You can check the live version here 
+🔗 https://advice-app-front.vercel.app/
 
  About me
 
